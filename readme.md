@@ -2,3 +2,4 @@
 - eggs
 - potato chips
 - spinach
+- almond milk
